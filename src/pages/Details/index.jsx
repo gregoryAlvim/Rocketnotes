@@ -1,11 +1,14 @@
-import "./styles.css";
+import { Container } from "./styles";
+import { Button } from '../../components/Button';
 
 export function Details() {
 
   return (
-    <div>
+    <Container>
       <h1>Hello</h1>
       <span>Word</span>
-    </div>
+
+      <Button title="Entrar" loading/>
+    </Container>
   )
 }

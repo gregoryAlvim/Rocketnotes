@@ -1,10 +1,12 @@
-# RocktNotes
+# Rocket Notes
 
 <br/>
 
-<p align="center"><img src="./images/Gitfav.svg"></p>
+![image](https://user-images.githubusercontent.com/43592358/189492244-e1a7ac16-f393-48db-a8ec-bbfae69b5dcd.png)
 
-<p align="center"> Frontend do projeto. Desenvolvido com HTML, CSS, JavaScript e React.js </p>
+<p align="center"> Frontend da aplicação desenvolvido com HTML, CSS, JavaScript e React.js </p>
+
+#
 
 <p align="center">
    <a href="#sobre">Sobre </a> •
@@ -18,13 +20,17 @@
 
 ## Sobre
 
-O desafio foi construir uma aplicação web do zero utilizando a prototipação disponível no 
-<a href="https://www.figma.com/file/5uvg1MTKwCHu1UOj3NyF2s/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?node-id=0%3A1" target="_blank">Figma</a>,
-para fortalecer meus conhecimentos em HTML, CSS e JavaScript aplicando os conceitos que foram vistos anteriormente no stage 6 do Explorer.
+O Rocket Notes é uma aplicação para salvar e gerenciar seus links úteis. O frontend foi desenvolvido em aula do zero, utilizando a prototipação disponível no 
+<a href="https://www.figma.com/file/vDZGT0kRIhEcaG1wt7rsQ0/RocketNotes-(Copy)?node-id=0%3A1" target="_blank">Figma</a>.
+Utilizamos HTML, CSS, JavaScript e React.js durante o desenvolvimento do frontend, aplicando os conceitos que foram vistos anteriormente no stage 9 do Explorer.
 
-Para visualizar e utilizar o GitFav, <a href="https://gregoryalvim.github.io/GitFav/" target="_blank">clique aqui</a>.
+Para visualizar uma demo do Rocket Notes, <a href="https://gregoryalvim.github.io/GitFav/" target="_blank">clique aqui</a>.
 
 <br/>
+
+<h4 align="center">
+   🚧 README em construção... 🚧
+</h4>
 
 ## Features
 
@@ -37,7 +43,6 @@ Para visualizar e utilizar o GitFav, <a href="https://gregoryalvim.github.io/Git
 - [x] Salvar usuários listados em cache
 - [x] Adicionar página sem usuários favoritos
 - [x] Programação Orientada a Objetos
-- [ ] Barra de rolagem
 
 <br/>
 
@@ -68,7 +73,3 @@ Tecnologias utilizadas para desenvolvimento do Temporizador Web:
 
 
 <p align="center"> Made with 💙 by Grégory Alvim </p>
-
-<h4 align="center">
-   🚧 README em construção... 🚧
-</h4>

@@ -91,9 +91,21 @@ Tecnologias utilizadas para desenvolvimento do Temporizador Web:
 
 <br/>
 
-## Autor
+## Autor and Contact
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gr%C3%A9gory-alvim)  [![E-mail](https://img.shields.io/badge/Email-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gregori.alvim@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+<div> 
+  <a href="https://www.linkedin.com/in/grégory-alvim/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://instagram.com/gregori_alvim" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+
+  <a href = "mailto:gregori.alvim@gmail.com">
+    <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
 
 
 &nbsp;

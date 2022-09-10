@@ -2,6 +2,7 @@
   "name": "rocketnotes",
   "private": true,
   "version": "0.0.0",
+  "homepage": "Rocketnotes/",
   "type": "module",
   "scripts": {
     "dev": "vite",

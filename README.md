@@ -2,7 +2,7 @@
 
 <br/>
 
-![image](https://user-images.githubusercontent.com/43592358/189492244-e1a7ac16-f393-48db-a8ec-bbfae69b5dcd.png)
+![exemploAuthRoutes](https://user-images.githubusercontent.com/43592358/189493014-4255981b-25aa-47dd-8c4e-148eac171fc4.gif)
 
 <p align="center"> Frontend da aplicação desenvolvido com HTML, CSS, JavaScript e React.js </p>
 
@@ -40,8 +40,8 @@ Para visualizar uma demo do Rocket Notes, <a href="https://gregoryalvim.github.i
 - [x] Verificar se o usuário informado existe
 - [x] Direcionar o usuário para a página do usuário de preferência 
 - [x] Remover usuário listado
-- [x] Salvar usuários listados em cache
-- [x] Adicionar página sem usuários favoritos
+- [x] Authentic routes
+- [x] App routes
 - [x] Programação Orientada a Objetos
 
 <br/>

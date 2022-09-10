@@ -2,7 +2,6 @@
   "name": "rocketnotes",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gregoryalvim.github.io/Rocketnotes/",
   "type": "module",
   "scripts": {
     "dev": "vite",

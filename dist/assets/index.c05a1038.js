@@ -527,7 +527,7 @@ Error generating stack: `+o.message+`
          color: ${({theme:e})=>e.COLORS.BACKGROUND_800};
       }
    }
-`;function Lv(){return re(Rv,{children:[_("header",{children:_(tr,{to:"/",children:_(q0,{})})}),re($v,{children:[re(Nv,{children:[_("img",{src:"https://github.com/gregoryAlvim.png",alt:"Foto do usu\xE1rio"}),re("label",{htmlFor:"avatar",children:[_(b0,{}),_("input",{id:"avatar",type:"file"})]})]}),_(jn,{placeholder:"Name",type:"text",icon:nv}),_(jn,{placeholder:"E-mail",type:"text",icon:ev}),_(jn,{placeholder:"Senha atual",type:"password",icon:oc}),_(jn,{placeholder:"Nova senha",type:"password",icon:oc}),_(za,{title:"Salvar"})]})]})}function zv(){return re(A0,{children:[_(vr,{path:"/",element:_(xv,{})}),_(vr,{path:"/new",element:_(dv,{})}),_(vr,{path:"/profile",element:_(Lv,{})}),_(vr,{path:"/details/:id",element:_(Pv,{})})]})}const Wd="/assets/background.332dd719.png";Q.div`
+`;function Lv(){return re(Rv,{children:[_("header",{children:_(tr,{to:"/",children:_(q0,{})})}),re($v,{children:[re(Nv,{children:[_("img",{src:"https://github.com/gregoryAlvim.png",alt:"Foto do usu\xE1rio"}),re("label",{htmlFor:"avatar",children:[_(b0,{}),_("input",{id:"avatar",type:"file"})]})]}),_(jn,{placeholder:"Name",type:"text",icon:nv}),_(jn,{placeholder:"E-mail",type:"text",icon:ev}),_(jn,{placeholder:"Senha atual",type:"password",icon:oc}),_(jn,{placeholder:"Nova senha",type:"password",icon:oc}),_(za,{title:"Salvar"})]})]})}function zv(){return re(A0,{children:[_(vr,{path:"/",element:_(xv,{})}),_(vr,{path:"/new",element:_(dv,{})}),_(vr,{path:"/profile",element:_(Lv,{})}),_(vr,{path:"/details/:id",element:_(Pv,{})})]})}const Wd="/Rocketnotes/assets/background.332dd719.png";Q.div`
    height: 100vh;
 
    display: flex;

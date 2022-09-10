@@ -1,4 +1,5 @@
 import { FiPlus, FiSearch } from 'react-icons/fi';
+import { Link } from 'react-router-dom';
 
 import { Container, Brand, Menu, Search, Content, NewNote } from './styles';
 
@@ -29,13 +30,15 @@ export function Home () {
 
          <Content>
             <Section title = "Minhas notas">
-               <Note data = {{
-                  title: 'React', 
-                  tags: [
-                     {id: '1', name: 'React'},
-                     {id: '2', name: 'Rocketseat'}
-                  ]
-               }}/>
+               <Link to="details/1">
+                  <Note data = {{
+                        title: 'React', 
+                        tags: [
+                           {id: '1', name: 'React'},
+                           {id: '2', name: 'Rocketseat'}
+                        ]
+                     }}/>
+               </Link>
             </Section>
          </Content>
 

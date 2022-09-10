@@ -33,11 +33,11 @@ Utilizamos HTML, CSS, JavaScript e React.js durante o desenvolvimento do fronten
 <!-- Para visualizar uma demo do Rocket Notes, <a href="https://gregoryalvim.github.io/Rocketnotes/" target="_blank">clique aqui</a>. -->
 
 <br/>
-
+<!-- 
 <h4 align="center">
    🚧 README em construção... 🚧
 </h4>
-
+-->
 ## Features
 
 - [x] Setup Vite

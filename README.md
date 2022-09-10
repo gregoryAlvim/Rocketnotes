@@ -70,7 +70,7 @@ Utilizamos HTML, CSS, JavaScript e React.js durante o desenvolvimento do fronten
 
 ## Tecnologias
 
-Tecnologias utilizadas para desenvolvimento do Temporizador Web:
+Tecnologias utilizadas para desenvolvimento do Frontend:
 
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)

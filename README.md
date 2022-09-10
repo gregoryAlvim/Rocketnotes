@@ -4,7 +4,7 @@
 
 <p align="center"><img src="./images/Gitfav.svg"></p>
 
-<p align="center"> Frontend da aplicação web. Desenvolvido com HTML, CSS, JavaScript e React.js. </p>
+<p align="center"> Frontend do projeto. Desenvolvido com HTML, CSS, JavaScript e React.js </p>
 
 <p align="center">
    <a href="#sobre">Sobre </a> •

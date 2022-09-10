@@ -30,7 +30,7 @@ O Rocket Notes é uma aplicação para salvar e gerenciar seus links úteis. O f
 <a href="https://www.figma.com/file/vDZGT0kRIhEcaG1wt7rsQ0/RocketNotes-(Copy)?node-id=0%3A1" target="_blank">Figma</a>.
 Utilizamos HTML, CSS, JavaScript e React.js durante o desenvolvimento do frontend, aplicando os conceitos que foram vistos anteriormente no stage 9 do Explorer.
 
-Para visualizar uma demo do Rocket Notes, <a href="https://gregoryalvim.github.io/Rocketnotes/" target="_blank">clique aqui</a>.
+<!-- Para visualizar uma demo do Rocket Notes, <a href="https://gregoryalvim.github.io/Rocketnotes/" target="_blank">clique aqui</a>. -->
 
 <br/>
 

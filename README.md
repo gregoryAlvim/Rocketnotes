@@ -40,12 +40,28 @@ Para visualizar uma demo do Rocket Notes, <a href="https://gregoryalvim.github.i
 
 ## Features
 
-- [x] Consumir GitHub API
-- [x] Adicionar usuários utilizando API
-- [x] Verificar se o usuário informado já foi listado
-- [x] Verificar se o usuário informado existe
-- [x] Direcionar o usuário para a página do usuário de preferência 
-- [x] Remover usuário listado
+- [x] Setup Vite
+- [x] React
+- [x] React icons
+- [x] React Router Dom
+- [x] Styled Components
+- [x] Global Styles
+- [x] Global Theme
+- [x] Detail Page
+- [x] Home Page
+- [x] New Page
+- [x] Profile Page
+- [x] SignIn Page
+- [x] SignUp Page
+- [x] Header component
+- [x] Section component
+- [x] Button component
+- [x] ButtonText component
+- [x] Input component
+- [x] Note component
+- [x] NoteItem component
+- [x] Tag component
+- [x] Textarea component
 - [x] Authentic routes
 - [x] App routes
 - [x] Programação Orientada a Objetos
@@ -59,13 +75,18 @@ Tecnologias utilizadas para desenvolvimento do Temporizador Web:
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 - [JavaScript](https://www.w3schools.com/js/)
+- [React.js](https://pt-br.reactjs.org/)
 
 <br/>
 
 ## Requisitos
 
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-- [Git - Opcional](https://git-scm.com/)
+- [Vite](https://vitejs.dev/)
+- [React.js](https://pt-br.reactjs.org/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [React Router Dom](https://reactrouter.com/en/main)
+- [Styled Components](https://styled-components.com/)
+- [Git](https://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 <br/>

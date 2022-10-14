@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { FiPlus, FiSearch } from 'react-icons/fi';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
 import { api } from '../../services/api';
 
@@ -19,6 +19,8 @@ export function Home () {
    const [tagsSelected, setTagsSelected] = useState([]);
    const [notes, setNotes] = useState([]);
 
+   const navigate = useNavigate();
+
    function handleTagSelected(tagName) {
 
       const alreadySelected = tagsSelected.includes(tagName);
@@ -36,6 +38,9 @@ export function Home () {
 
    }
 
+   function handleDetails(id) {
+      navigate(`/details/${id}`);
+   }
 
    useEffect(() => {
       async function fetchTags() {
@@ -99,6 +104,7 @@ export function Home () {
                         <Note 
                            key={String(note.id)}
                            data={note}
+                           onClick={() => handleDetails(note.id)}
                         />
                      ))
                   }
